@@ -90,7 +90,7 @@
                 <div class="row justify-content-center py-5">
                     <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
                         <h1 class="display-3 text-white mb-3 animated slideInDown">Enjoy Your Vacation With Us</h1>
-                        <p class="fs-4 text-white mb-4 animated slideInDown">CULTURAL HERITAGE INFORMATION MANAGEMENT SYSTEM FOR SOUTH ETHIOPIA REGIONAL STATE CULTURE & TOURISM BUREAU</p>
+                        <p class="fs-4 text-white mb-4 animated slideInDown">HADIYA  ZONE CULTURE AND TOURISM BUREAU</p>
                         <!-- Search button here -->
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                 <div class="col-lg-6 wow bideInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
                     <h1 class="mb-4">Welcome to <span class="text-primary">SERCTB</span></h1>
-                    <p class="mb-4">CULTURAL HERITAGE INFORMATION MANAGEMENT SYSTEM FOR SOUTH ETHIOPIA REGIONAL STATE CULTURE & TOURISM BUREAU.</p>
+                    <p class="mb-4">HADIYA  ZONE CULTURE AND TOURISM BUREAU</p>
                     <p class="mb-4">The Southern Ethipian Region State is reginal state in sothern Ethiopian. It was formed from the Southern part of South Nation Nationalities, and People Region on 19 August 2023 after successfully referendum. Wolaita Sodo is the regional poletical and administrative center and capital town.</p>
                     <div class="row gy-2 gx-4 mb-4">
                         <div class="col-sm-4">
